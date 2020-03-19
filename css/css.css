@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	color:#000;
+	background:#FFF;}
+body,div,dl,dt,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,input,legend,p,blockquote,th,td{
+	margin:0;
+	padding:0;
+	}
+table{
+	border-collapse:collapse;
+	border-spacing:0;}
+em,strong,b,u,i{
+	font-style:normal;
+	font-weight:normal;
+	}
+ul,li{
+	list-style:none;}
+h1,h2,h3{
+	font-size:18px;
+	font-weight:normal;}
+input,textarea,select{
+	font-family:inherit;
+	font-size:inherit;
+	font-weight:inherit;
+	font-size:100%;}
+img{
+	border:0 none;}
+a{
+	text-decoration:none;}
+input{border:none;}
